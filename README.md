@@ -1,1 +1,1 @@
-# Shopping-Cart-JavaScript-
+# Shopping-Cart by using JavaScript.
